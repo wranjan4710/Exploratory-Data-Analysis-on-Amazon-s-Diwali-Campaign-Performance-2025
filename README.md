@@ -1,4 +1,4 @@
-# Exploratory Data-Analysis on Amazon's Diwali Campaign Performance-2025
+# Exploratory Data-Analysis on Amazon's Diwali Campaign Performance-2025 
 
 This project focuses on analyzing Amazon's Diwali Campaign Performance 2025 using Exploratory Data Analysis (EDA). The aim is to understand sales trends, profit growth, customer behavior, and product performance during the Diwali season.
 
